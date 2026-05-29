@@ -1,0 +1,8 @@
+admin
+login
+dashboard
+api
+test
+robots.txt
+.git
+backup
